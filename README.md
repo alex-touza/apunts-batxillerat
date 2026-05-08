@@ -1,11 +1,15 @@
 # apunts-batxillerat
 Col·lecció d'apunts i resums de Batxillerat fets amb Typst.
 
-Si bé l'autor espera que aquests resums siguin d'ajut, per motius legals, no es dona cap garantia que siguin absolutament complets i correctes.
 
 Si trobeu algun error o teniu alguna suggerència, no dubteu a comunicar-ho o bé enviant un correu electrònic a alex.touza.l@gmail.com o bé creant una _issue_ en aquest repositori. També s'accepten contribucions directes a través de _pull requests_.
 
+**Avís legal.** Els apunts estan disponibles sota una llicència [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Això vol dir que si bé es permet la lliure circulació d'aquests apunts, no se'n permet la venda i totes les còpies han de reconèixer l'autor (vegeu Autoria).
+
+
 ## Resums
+
+Els resums de matemàtiques i física estan pensats per les PAU i la prova d'accés del CFIS.
 
 ### Matemàtiques
 
@@ -37,3 +41,36 @@ Aquest resum està fortament inspirat en el formulari del professor Eduard Hern�
 Es fa ús de la llibreria CeTZ per crear diagrames d'alta qualitat.
 
 Està dissenyat per imprimir-se en un quadern a doble cara, amb marges diferents a pàgines senars i parelles.
+
+### Química
+
+#### Resums complets
+
+El resum de química conté els següents temes de manera íntegra:
+
+- **Termodinàmica.**
+- **Equilibri químic.**
+- **Reaccions de transferència de protons.**
+- **Tècniques d'identificació de la matèria.**
+- **Teoria atòmica i taula periòdica**.
+
+Al final del resum també s'exposen 4 procediments de laboratori, cadascun amb el material necessari i el procediment: **valoració àcid-base**, **preparació d'una solució amb solut sòlid**, **preparació d'una dilució** i **muntatge d'una pila**.
+
+#### Apunts breus
+
+- **Gasos, dissolucions i reaccions químiques.** Fórmules de concentració i lleis dels gasos.
+- **Solubilitat i precipitació.** Taules de concentracions, causes de desplaçament d'equilibris i dissolució de precipitats.
+
+#### Temes absents
+
+- Cinètica química
+- Reaccions de transferència d'electrons
+
+### Tecnologia
+
+Properament.
+
+
+### Història d'Espanya i Catalunya
+
+Properament.

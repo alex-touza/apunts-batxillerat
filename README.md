@@ -76,3 +76,9 @@ Properament.
 ### Història d'Espanya i Catalunya
 
 Properament.
+
+# Autoria
+
+Tots els resums i llurs elements visuals, si no s'especifica el contrari, han estat escrits i dissenyats per Àlex Touza.
+
+Si aquests apunts us són útils, deixeu la vostra estrella.

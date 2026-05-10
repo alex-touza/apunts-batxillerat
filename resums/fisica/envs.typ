@@ -2,7 +2,7 @@
 #import "@preview/rich-counters:0.2.1": *
 #import "../../lib/resum.template.typ": * 
 
-#let heading-supplement =  n => "Bloc " + n + "."
+#let heading-supplement =  n => "Tema " + n + "."
 
 
 #show heading.where(level: 1): set heading(numbering: (..a) => heading-supplement(str(a.pos().first())))

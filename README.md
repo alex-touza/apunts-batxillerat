@@ -1,7 +1,7 @@
 # apunts-batxillerat
 Col·lecció d'apunts i resums de Batxillerat fets amb Typst.
 
-Accediu a l'última revisió en [aquest enllaç](https://github.com/alex-touza/apunts-batxillerat/releases/tag/rev-1.0.0/latest).
+Accediu a l'última revisió en [aquest enllaç](https://github.com/alex-touza/apunts-batxillerat/releases/latest).
 
 
 Si trobeu algun error o teniu alguna suggerència, no dubteu a comunicar-ho o bé enviant un correu electrònic a alex.touza.l@gmail.com o bé creant una _issue_ en aquest repositori. També s'accepten contribucions directes a través de _pull requests_.

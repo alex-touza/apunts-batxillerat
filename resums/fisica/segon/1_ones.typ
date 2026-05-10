@@ -57,8 +57,6 @@ Cas general: càlcul de la fase incial ($phi_0$) amb un instant i la seva posici
 
 Moviment d'una molla. Segona llei de Newton i llei de Hooke.
 
-
-
   
 $
 cases(F = m a, F = -k x) => m a = - k x <=> \ <=> -m omega^2 x = - k x <=> demo( k = m omega^2, #4pt ) med #unitat("N/m") \
@@ -214,8 +212,8 @@ $mag(L, "m")$: longitud del tub o la corda
 === Nodes i ventres
 ==== Definició
 
-Un node és la posició d'#underline[oscil·lació nul·la]; on hi ha #underline[interferència constructiva]. \
-Un ventre és la posició d'#underline[oscil·lació màxima]; on hi ha #underline[interferència destructiva].
+Un node és la posició d'#underline[oscil·lació nul·la]; on hi ha #underline[interferència destructiva]. \
+Un ventre és la posició d'#underline[oscil·lació màxima]; on hi ha #underline[interferència constructiva].
 
 ==== Extrems
 

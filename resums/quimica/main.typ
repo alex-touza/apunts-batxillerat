@@ -1,6 +1,6 @@
 #import "../../lib/resum.template.typ": *
 #import "@preview/fletcher:0.5.6" as fletcher: diagram, node, edge
-#import "@preview/whalogen:0.2.0": ce
+#import "@preview/whalogen:0.3.0": ce
 #import "@preview/xarrow:0.3.1": xarrow
 
 

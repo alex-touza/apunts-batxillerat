@@ -14,7 +14,7 @@ jobs:
           ref: ${{ github.event.release.tag_name }} 
       
       - name: Setup Typst
-        uses: yusancky/setup-typst@v1
+        uses: typst-community/setup-typst@v5
       
       - name: Compilar PDFs
         run: |

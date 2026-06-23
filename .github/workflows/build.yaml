@@ -19,9 +19,9 @@ jobs:
       - name: Compilar PDFs
         run: |
           mkdir -p build
-          typst compile --root . ./resums/fisica.typ ./build/fisica.pdf
-          typst compile --root . ./resums/matematiques.typ ./build/matematiques.pdf
-          typst compile --root . ./resums/quimica.typ ./build/quimica.pdf
+          for subject in fisica matematiques quimica; do
+            typst compile --root . ./resums/$subject/main.typ ./build/$subject.pdf
+          done
       
       - name: Pujar PDFs al release actual
         uses: softprops/action-gh-release@v1

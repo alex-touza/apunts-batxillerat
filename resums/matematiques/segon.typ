@@ -490,7 +490,7 @@ $
 r colon 
 cases(
   A x &+ B y &+ C z &+ D &= 0,
-  A'x &+ B'y &+ C'z &+ D'x &= 0
+  A'x &+ B'y &+ C'z &+ D' &= 0
 )
 $
 

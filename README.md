@@ -77,6 +77,12 @@ Properament.
 
 Properament.
 
+# Agraïments
+
+A l'Eduard Hernández, pel seu formulari de Física original.
+
+A l'Abril Catalán, pels errors informats.
+
 # Autoria
 
 Tots els resums i llurs elements visuals, si no s'especifica el contrari, han estat escrits i dissenyats per Àlex Touza.

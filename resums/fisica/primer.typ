@@ -251,13 +251,13 @@ $
 
 === Llei de conservació de l'energia mecànica
 
-Si no hi ha forces conservatives:
+Si només hi ha forces conservatives:
 
 $
 Delta Emec = 0
 $
 
-Treball de forces conservatives:
+Treball de forces no conservatives:
 
 $
 W_"no cons" = Delta Emec

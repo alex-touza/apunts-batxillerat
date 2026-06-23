@@ -1,0 +1,32 @@
+name: Compilar i pujar PDFs a Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  compile-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name }} 
+      
+      - name: Setup Typst
+        uses: yusancky/setup-typst@v1
+      
+      - name: Compilar PDFs
+        run: |
+          mkdir -p build
+          typst compile resums/fisica.typ build/fisica.pdf
+          typst compile resums/matematiques.typ build/matematiques.pdf
+          typst compile resums/quimica.typ build/quimica.pdf
+      
+      - name: Pujar PDFs al release actual
+        uses: softprops/action-gh-release@v1
+        with:
+          files: build/*.pdf
+          tag_name: ${{ github.event.release.tag_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

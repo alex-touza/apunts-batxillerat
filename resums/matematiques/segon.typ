@@ -196,7 +196,7 @@ $
 A X B = C <=> underbrace(A^(-1) A, I) X underbrace(B B^(-1), I) = A^(-1) C B^(-1) <=>  \ <=> X = A^(-1) C B^(-1) 
 $
 
-=== Productes d'escalars
+=== Productes amb escalars
 
 
 $

@@ -77,6 +77,10 @@ Properament.
 
 Properament.
 
+# Desenvolupament
+
+Cal fer servir la versió 0.14.2 de Typst. Versions més noves poden causar errors.
+
 # Agraïments
 
 A l'Eduard Hernández, pel seu formulari de Física original.

@@ -182,7 +182,7 @@ $mag(arrow(N), name: "força normal")$: Força perpendicular a la superfície
 === Forces de fregament
 
 $mag(arrow(mu_t))$: vector unitari tangent al moviment
-==== Fregament dinàmic
+==== Fregament estàtic
 
 $mag(mu_s, "1", name: "coeficient de fregament estàtic")$ \
 

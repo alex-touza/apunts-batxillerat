@@ -79,7 +79,12 @@ Properament.
 
 # Desenvolupament
 
+## Requeriments
 Cal fer servir la versió 0.14.2 de Typst. Versions més noves poden causar errors.
+
+## Revisions
+
+Crear una _release_ executa l'acció descrita pel fitxer `.github/workflows/build.yaml` per compilar els apunts automàticament i adjuntar-hi els PDFs.
 
 # Agraïments
 

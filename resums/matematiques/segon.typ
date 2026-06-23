@@ -136,16 +136,15 @@ A_(m times n) + B_(m times n) = C_(m times n) \
 (a_(i j)) + (a_(i j)) = (b_(i j) + b_(i j))
 $
 
-=== Producte
 
-==== Producte per un escalar
+=== Producte per un escalar
 
 $
 k (a_(i j)) = (k a_(i j))
 $
 
 Els escalars es poden "moure" en un producte de matrius.
-==== Producte entre matrius
+=== Producte entre matrius
 
 $
 A dot B = C <=> A_(m times n) dot B_(n times r) = C_(m times r) 

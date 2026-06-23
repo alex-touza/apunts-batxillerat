@@ -133,7 +133,7 @@ La *matriu oposada* d'una matriu $A$ és la matriu $-A$ resultant de canviar els
 
 $
 A_(m times n) + B_(m times n) = C_(m times n) \
-(a_(i j)) + (a_(i j)) = (b_(i j) + b_(i j))
+(a_(i j)) + (b_(i j)) = (a_(i j) + b_(i j))
 $
 
 
